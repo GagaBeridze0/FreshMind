@@ -1,0 +1,16 @@
+@import "./Components/root.scss";
+@import "./Components/fonts.scss";
+@import "./Components/_quiz.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
