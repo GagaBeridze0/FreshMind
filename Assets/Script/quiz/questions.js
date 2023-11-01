@@ -3,7 +3,7 @@ let questions = [
     {
     numb: 1,
     question: "დნობის განსაკუთრებულად მაღალი ტემპით გამოირჩევა",
-    answer: "Hyper Text Markup Language",
+    answer: "აღმოსავლეთ კავკასიონი",
     options: [
       "აღმოსავლეთ კავკასიონი",
       "დასავლეთ კავკასიონი",
@@ -14,7 +14,7 @@ let questions = [
     {
     numb: 2,
     question: "გლობალური დათბობის ერთ-ერთი მნიშვნელოვანი გამომწვევი მიზეზია",
-    answer: "Cascading Style Sheet",
+    answer: "მყინვარების დნობა",
     options: [
       "მყინვარების დნობა",
       "ტყის გაჩეხვა",
@@ -25,7 +25,7 @@ let questions = [
     {
     numb: 3,
     question: "ბუნებრივი კატასტროფების ზრდის ხელშემწყობი ფაქტორია",
-    answer: "Hypertext Preprocessor",
+    answer: "გლობალური დათბობის შედეგად კლიმატის საგრძნობლად ცვლილება",
     options: [
       "გლობალური დათბობის შედეგად კლიმატის საგრძნობლად ცვლილება",
       "ტემპერატურის გადაჭარბდებული ზრდა",
@@ -36,7 +36,7 @@ let questions = [
     {
     numb: 4,
     question: "რა გახდა შოვის ტრაგედიის მიზეზი?",
-    answer: "Structured Query Language",
+    answer: "გლაციალური ღვარცოფი",
     options: [
       "გლაციალური ღვარცოფი",
       "ვულკანის ამოფრქვევა",
@@ -47,7 +47,7 @@ let questions = [
     {
     numb: 5,
     question: "როგორი ტიპის კატასტროფაა ტექნოგენური?",
-    answer: "eXtensible Markup Language",
+    answer: "ადამიანის საქმიანობით განპირობებული",
     options: [
       "გარემოდაცვითი",
       "გლობალური",

@@ -25,8 +25,6 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.055), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.075);
 }
 
 .info_box.activeInfo,
@@ -113,7 +111,7 @@ body{
 .quiz_box{
     width: 90%;
     max-width: 550px;
-    background: $fm-second-bg-color;
+    background: transparent;
     border-radius: 20px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -125,7 +123,7 @@ body{
     position: relative;
     z-index: 2;
     height: 70px;
-    padding: 0 30px;
+    padding: 0 0px;
     background: $fm-second-bg-color;
     border-radius: 20px 20px 0 0;
     display: flex;
