@@ -257,7 +257,7 @@ section .option_list .option .icon{
     border-color: #a42834;
 }
 
-footer{
+.quiz-footer{
     height: 60px;
     padding: 0 30px;
     display: flex;
@@ -265,25 +265,25 @@ footer{
     justify-content: space-between;
 }
 
-footer .total_que{
+.quiz-footer .total_que{
     width: 100%;
 }
 
-footer .total_que span{
+.quiz-footer .total_que span{
     display: flex;
     user-select: none;
 }
 
-footer .total_que span p{
+.quiz-footer .total_que span p{
     font-weight: 500;
     padding: 0 5px;
 }
 
-footer .total_que span p:first-child{
+.quiz-footer .total_que span p:first-child{
     padding-left: 0px;
 }
 
-footer button{
+.quiz-footer button{
     height: 40px;
     padding: 0 13px;
     font-size: 18px;
@@ -301,11 +301,11 @@ footer button{
     transition: all 0.3s ease;
 }
 
-footer button:hover{
+.quiz-footer button:hover{
     background: $fm-color-black;
 }
 
-footer button.show{
+.quiz-footer button.show{
     opacity: 1;
     pointer-events: auto;
     transform: scale(1);
